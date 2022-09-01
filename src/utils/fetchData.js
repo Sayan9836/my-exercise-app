@@ -8,7 +8,7 @@ export const exerciseOptions = {
 
     }
 };
-pro
+
 export const youtubeOptions = {
     method: 'GET',
 
