@@ -1,6 +1,6 @@
 {
   "name": "modern_gym_app",
-  "homepage": "http://Sayan9836.github.io/my-app",
+  "homepage": "http://Sayan9836.github.io/my-exercise-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,8 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
+ 
 }
